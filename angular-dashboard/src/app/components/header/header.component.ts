@@ -1,6 +1,7 @@
 import { Component, EventEmitter, Output, inject } from "@angular/core";
 import { FormsModule } from "@angular/forms";
 import { ThemeService } from "src/app/services/theme.service";
+
 import { ToolbarModule } from "primeng/toolbar";
 import { ButtonModule } from "primeng/button";
 import { InputSwitchModule } from "primeng/inputswitch";
